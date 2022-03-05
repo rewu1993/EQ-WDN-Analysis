@@ -32,12 +32,12 @@ There are two notebooks to analyze the impact of an earthquake to the EBMUD WDN.
 
 
 <p align="center">
-<img src="https://github.com/rewu1993/EQ-WDN-analysis/blob/master/figures/pipe_hazard_analysis.png" alt="high_level" class="design-primary" width="600px">
+<img src="https://github.com/rewu1993/EQ-WDN-analysis/blob/master/figures/pipe_hazard_analysis.png" alt="high_level" class="design-primary" width="1000px">
 </p>
 
 Figure below illustrate the overall concept of the EQ impact analysis
 <p align="center">
-<img src="https://github.com/rewu1993/EQ-WDN-analysis/blob/master/figures/case_simulation_workflow.png" alt="high_level" class="design-primary" width="600px">
+<img src="https://github.com/rewu1993/EQ-WDN-analysis/blob/master/figures/case_simulation_workflow.png" alt="high_level" class="design-primary" width="400px">
 </p>
 
 
